@@ -1,0 +1,5 @@
+<archimate:Grouping
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Grondslagen"
+    id="id-00168cd1474a4a3a85d2b0e1b8ccd7d9"
+    documentation="Deze laag bevat algemene architectuurcomponenten die relevant zijn voor het maken van een architectuur waarin de aspecten van grondslagen (zoals wet- en regelgeving en beleid) in balans worden gebracht met de afgesproken overheidsdiensten.&#xD;&#xA;&#xD;&#xA;Kijk voor meer informatie op [[Grondslagenlaag]]."/>

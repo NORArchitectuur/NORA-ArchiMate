@@ -1,0 +1,12 @@
+<archimate:InfluenceRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Motiveert"
+    id="id-8a61a7d852554dc986344460fac27690">
+  <source
+      xsi:type="archimate:Driver"
+      href="Driver_id-c43f74cb996249609354c1c6d7422907.xml#id-c43f74cb996249609354c1c6d7422907"/>
+  <target
+      xsi:type="archimate:Goal"
+      href="Goal_id-01d46cffdd664c1abbafa29cbc7f7f19.xml#id-01d46cffdd664c1abbafa29cbc7f7f19"/>
+</archimate:InfluenceRelationship>

@@ -1,0 +1,13 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Gebruikt"
+    id="id-d825da7a9b8a4c479562fe3982b196b1"
+    directed="true">
+  <source
+      xsi:type="archimate:Grouping"
+      href="Grouping_id-6ba1ac6d2738451fababa013d32f10f4.xml#id-6ba1ac6d2738451fababa013d32f10f4"/>
+  <target
+      xsi:type="archimate:Constraint"
+      href="Constraint_id-e7ba5c5b34e546e8ba428733993a8ede.xml#id-e7ba5c5b34e546e8ba428733993a8ede"/>
+</archimate:AssociationRelationship>
